@@ -47,6 +47,7 @@ public class SeleniumTest {
         driver.quit();
         System.out.println("하이 하이 테스트");
         System.out.println("하이 하이 테스트2");
+        System.out.println("하이 하이 테스트3");
 
 
         /**
